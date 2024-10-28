@@ -1,4 +1,4 @@
-package FunWithStrings;
+	package FunWithStrings;
 
 public class permutationOfString {
 
